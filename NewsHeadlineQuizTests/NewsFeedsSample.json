@@ -1,0 +1,56 @@
+{
+"product": "Daily Buzz",
+"resultSize": 4,
+"version": 1,
+"items": [
+    {
+        "correctAnswerIndex": 2,
+        "imageUrl": "http://news-innovation.s3.amazonaws.com/matcha/20150105/d6a7bac9beaefea3120a8fee51eaca29.jpg",
+        "standFirst": "PREMIER League leaders Chelsea were held to a 1-1 draw by Southampton, but retained their lead at the top after Manchester City also dropped points. PREMIER League leaders Chelsea were held to a 1-1 draw by Southampton, but retained their lead at the top after Manchester City also dropped points. PREMIER League leaders Chelsea were held to a 1-1 draw by Southampton, but retained their lead at the top after Manchester City also dropped points.",
+        "storyUrl": "http://www.dailytelegraph.com.au/sport/football/barclays-premier-league-leaders-chelsea-held-to-1-1-draw-by-top-four-contenders-southampton/story-fnk5e6j5-1227168894043?sv=4cb49dd02de058ab862ac225a8e18fd5",
+        "section": "sport",
+        "headlines": [
+            "Munce Intent on reversing result in grand final",
+            "Socceroos to dribble in after Xmas exertions",
+            "Stubborn Southampton frustrate Chelsea"
+        ]
+    },
+    {
+        "correctAnswerIndex": 1,
+        "imageUrl": "http://news-innovation.s3.amazonaws.com/matcha/20150105/3bd0b55114ee096de053131bbe9a67a1.jpg",
+        "standFirst": "INDIAN firebrand Virat Kohli blasted his third Test century of the summer at the MCG before declaring he respected only some of his Australian opponents.",
+        "storyUrl": "http://www.dailytelegraph.com.au/sport/cricket/australia-v-india-2014-virat-kohli-scores-169-says-he-only-respects-some-australian-players/story-fni2fnmo-1227168714505?sv=304a7d2177d711dd838def168f53afcb",
+        "section": "sport",
+        "headlines": [
+            "Ragamuffin third in Sydney to Hobart",
+            "Kohli swats away ‘spoilt brat’ gibes",
+            "Perignon leads Ryan’s MM charge"
+        ]
+    },
+    {
+        "correctAnswerIndex": 1,
+        "imageUrl": "http://news-innovation.s3.amazonaws.com/matcha/20150105/51804a8d6c7c92a88bc5cc1977e7617e.jpg",
+        "standFirst": "TAYLOR Swift has thrown herself a star-studded birthday party to mark her 25th. Pictures from inside her million-dollar apartment reveal what went down.",
+        "storyUrl": "http://www.dailytelegraph.com.au/entertainment/celebrity/taylor-swift-celebrates-25th-birthday-in-true-celeb-style/story-fni0bn79-1227155372852?sv=e5ad32ce87975ce3c76b2ff4e95dfabe",
+        "section": "entertainment",
+        "headlines": [
+            "Edgerton crowned a box office king",
+            "Taylor Swift’s epic birthday party",
+            "Emma given cold shoulder from Nine"
+        ]
+    },
+    {
+        "correctAnswerIndex": 2,
+        "imageUrl": "http://news-innovation.s3.amazonaws.com/matcha/20150105/cfd120b15d4bbdef64e1a54c65b71e02.jpg",
+        "standFirst": "TRAINS, planes and automobiles might excite him but mention one person in John Travolta’s life and his eyes light up like a 747.",
+        "storyUrl": "http://www.dailytelegraph.com.au/entertainment/sydney-confidential/john-travoltas-one-great-love-makes-actors-eyes-light-up-like-a-747/story-fni0cvc9-1227076459685?sv=c01cd67a48453ed048b0872b0ce25683",
+        "section": "entertainment",
+        "headlines": [
+            "JT brings sexy back to Sydney",
+            "Seven fights book on Sunrise",
+            "John Travolta reveals his great love"
+        ]
+    },
+  ]
+}
+
