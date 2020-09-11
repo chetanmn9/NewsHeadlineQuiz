@@ -46,9 +46,7 @@ class NHQGameViewModel: ObservableObject {
                     DispatchQueue.main.async {
                         completion(self.gameItems)        //Return Array on completion as escaping
                     }
-                   // print(self.gameItems.count)
                     self.gameProduct.append(GameQuestions(product: productName, resultSize: productResultSize, version: productVersion, items: self.gameItems))
-                    //print(self.gameProduct)
                     
                 }
                 

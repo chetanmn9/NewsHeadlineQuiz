@@ -126,6 +126,7 @@ struct questionsList: View {
     func nextQuestion() {
         
         self.questionIndex += 1
+        
         isQuestion = true
     }
     
