@@ -29,6 +29,8 @@
 		613771F425052D6B00E8B454 /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 613771F325052D6B00E8B454 /* Animations.swift */; };
 		613771F725052E2300E8B454 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 613771F625052E2300E8B454 /* Lottie */; };
 		613771F92505339500E8B454 /* NewsFeedsSample.json in Resources */ = {isa = PBXBuildFile; fileRef = 613771F82505339500E8B454 /* NewsFeedsSample.json */; };
+		6152E338250F5D0C007007AD /* NewsHeadlineQuiz1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6152E336250F5D0C007007AD /* NewsHeadlineQuiz1.gif */; };
+		6152E339250F5D0C007007AD /* NewsHeadlineQuiz2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6152E337250F5D0C007007AD /* NewsHeadlineQuiz2.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +91,8 @@
 		613771EF25052D3E00E8B454 /* Wrong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Wrong.json; sourceTree = "<group>"; };
 		613771F325052D6B00E8B454 /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
 		613771F82505339500E8B454 /* NewsFeedsSample.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NewsFeedsSample.json; sourceTree = "<group>"; };
+		6152E336250F5D0C007007AD /* NewsHeadlineQuiz1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = NewsHeadlineQuiz1.gif; sourceTree = "<group>"; };
+		6152E337250F5D0C007007AD /* NewsHeadlineQuiz2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = NewsHeadlineQuiz2.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +131,7 @@
 				613771EC25052D3E00E8B454 /* Animations */,
 				613771A0250526C200E8B454 /* NewsHeadlineQuiz */,
 				613771BA250526C300E8B454 /* NewsHeadlineQuizTests */,
+				6152E335250F5CE0007007AD /* App Demo */,
 				613771C5250526C300E8B454 /* NewsHeadlineQuizUITests */,
 				6137719F250526C200E8B454 /* Products */,
 				613771D42505270C00E8B454 /* Supporting Files */,
@@ -236,6 +241,15 @@
 				613771EF25052D3E00E8B454 /* Wrong.json */,
 			);
 			path = Animations;
+			sourceTree = "<group>";
+		};
+		6152E335250F5CE0007007AD /* App Demo */ = {
+			isa = PBXGroup;
+			children = (
+				6152E336250F5D0C007007AD /* NewsHeadlineQuiz1.gif */,
+				6152E337250F5D0C007007AD /* NewsHeadlineQuiz2.gif */,
+			);
+			path = "App Demo";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -352,6 +366,8 @@
 			files = (
 				613771B1250526C300E8B454 /* LaunchScreen.storyboard in Resources */,
 				613771F125052D3E00E8B454 /* Correct.json in Resources */,
+				6152E338250F5D0C007007AD /* NewsHeadlineQuiz1.gif in Resources */,
+				6152E339250F5D0C007007AD /* NewsHeadlineQuiz2.gif in Resources */,
 				613771AE250526C300E8B454 /* Preview Assets.xcassets in Resources */,
 				613771AB250526C300E8B454 /* Assets.xcassets in Resources */,
 				613771F225052D3E00E8B454 /* Wrong.json in Resources */,
