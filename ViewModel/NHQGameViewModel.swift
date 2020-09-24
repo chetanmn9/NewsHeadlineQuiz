@@ -9,7 +9,7 @@
 import Foundation
 import Alamofire
 
-var apiUrl = "https://firebasestorage.googleapis.com/v0/b/nca-dna-apps-dev.appspot.com/o/game.json?alt=media&token=e36c1a14-25d9-4467-8383-a53f57ba6bfe"
+var apiUrl = "Your URL"
 
 class NHQGameViewModel: ObservableObject {
     @Published var gameProduct : [GameQuestions] = [] //()
