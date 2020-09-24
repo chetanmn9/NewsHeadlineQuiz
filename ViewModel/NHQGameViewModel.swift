@@ -9,7 +9,7 @@
 import Foundation
 import Alamofire
 
-var apiUrl = "Your URL"
+var apiUrl = "Your API"
 
 class NHQGameViewModel: ObservableObject {
     @Published var gameProduct : [GameQuestions] = [] //()
